@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Flxer!
+# 👋 Hi, I’m [Flxer!](https://github.com/Fl-xer)
 - 👀 I’m interested in coding, and I really like to make new things that help people.
 - 🌱 I’m currently learning Python, JS, and Node.js
 - 💞️ I’m looking to collaborate on Discord Bots.
